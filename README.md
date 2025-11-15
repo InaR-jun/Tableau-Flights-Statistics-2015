@@ -33,8 +33,7 @@ The dashboard provides clear answers to the project's core questions through tar
 
 The analysis is based on public U.S. flight records data.
 
-* **Live Dashboard Link:** **[INSERT YOUR TABLEAU PUBLIC URL HERE]**
-* **Data Source (Optional):** [Include a link to your raw data file, if uploaded to GitHub]
+* **Live Dashboard Link:** **[(https://public.tableau.com/app/profile/ina.russu/viz/Project_InaR/2015FlightReport)]**
 
 ---
 
@@ -42,4 +41,4 @@ The analysis is based on public U.S. flight records data.
 
 A screenshot of the live dashboard structure and layout:
 
-![Tableau Public Flight Statistics Dashboard](images/flights_statistics_dashboard.jpg)
+![Tableau Public Flight Statistics Dashboard](images/Tableau.png)
