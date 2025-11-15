@@ -41,4 +41,4 @@ The analysis is based on public U.S. flight records data.
 
 A screenshot of the live dashboard structure and layout:
 
-![Tableau Public Flight Statistics Dashboard](images/Tableau.png)
+![Tableau Public Flight Statistics Dashboard](Tableau.png)
